@@ -1,0 +1,15 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\bin\Debug\net7.0\VolumeCalc.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\bin\Debug\net7.0\VolumeCalc.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\bin\Debug\net7.0\VolumeCalc.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\bin\Debug\net7.0\VolumeCalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\bin\Debug\net7.0\VolumeCalc.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\refint\VolumeCalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\VolumeCalc.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VolumeCalc\obj\Debug\net7.0\ref\VolumeCalc.dll
